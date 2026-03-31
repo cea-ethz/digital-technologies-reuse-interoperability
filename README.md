@@ -1,4 +1,4 @@
-This repository contains the open materials supporting the paper:
+This repository contains materials supporting the paper:
 
 **“The interoperability of digital technologies for the reuse of the building stock: A systematic literature review.”**
 
